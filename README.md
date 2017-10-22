@@ -3,10 +3,10 @@ Play Russian Roulette with your OS
 Deletes system files. 
 release file has remove commands commented out
 
-#Requirements 
+# Requirements 
 pip install termcolor 
 
-#Main Output
+# Main Output
 You done fucked up now!
 
 Difficulty raiting:
