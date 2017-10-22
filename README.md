@@ -8,10 +8,15 @@ pip install termcolor
 
 #Main Output
 You done fucked up now!
+
 Difficulty raiting:
+
 1 = You're a bitch, this pulls every system file and only deletes one
+
 2 = No bitches here, pulls all the top level directories and deletes one of them
+
 3 = King Leonidas, Deletes the root directory
+
 4 = You aren't here to have fun, Takes two random files and overwrites one with the other
 
 
