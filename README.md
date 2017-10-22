@@ -1,6 +1,8 @@
 # RussianRoulette
 Play Russian Roulette with your OS
+
 Deletes system files. 
+
 release file has remove commands commented out
 
 # Requirements 
